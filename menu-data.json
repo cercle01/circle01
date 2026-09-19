@@ -10,17 +10,17 @@
         [
           "إسبريسو",
           4000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/01-espresso.jpg"
         ],
         [
           "برازيلي",
           3000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/02-brazilian.jpg"
         ],
         [
           "كولمبي",
           3000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/03-colombian.jpg"
         ]
       ]
     },
@@ -30,52 +30,52 @@
         [
           "لاتيه هوت",
           4000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/04-latte-hot.jpg"
         ],
         [
           "فلات وايت",
           4000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/05-flat-white.jpg"
         ],
         [
           "كورتادو",
           4000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/06-cortado.jpg"
         ],
         [
           "لاتيه كلاسيك",
           4000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/07-latte-classic.jpg"
         ],
         [
           "كابتشينو",
           4000,
-          "https://images.unsplash.com/photo-1497636577773-f1231844b336?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/08-cappuccino.jpg"
         ],
         [
           "سبانش لاتيه",
           5000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/09-spanish-latte.jpg"
         ],
         [
           "موكا",
           5000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/10-mocha.jpg"
         ],
         [
           "Angel",
           5000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/11-angel.jpg"
         ],
         [
           "هوت شوكليت",
           4500,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/12-hot-chocolate.jpg"
         ],
         [
           "أمريكانو",
           4000,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/13-americano.jpg"
         ]
       ]
     },
@@ -85,12 +85,12 @@
         [
           "كولد برو",
           5000,
-          "https://images.unsplash.com/photo-1765690835487-8da60d318d0f?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/14-cold-brew.jpg"
         ],
         [
           "V60",
           7000,
-          "https://images.unsplash.com/photo-1771508706219-9781c79787e9?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/15-v60.jpg"
         ]
       ]
     },
@@ -100,42 +100,42 @@
         [
           "آيس تي",
           3500,
-          "https://images.unsplash.com/photo-1758705206938-a196ac3ae3bb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/16-iced-tea.jpg"
         ],
         [
           "ليمون",
           3500,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/17-lemon.jpg"
         ],
         [
           "باشن فروت",
           3500,
-          "https://images.unsplash.com/photo-1754594537133-796eb54f206c?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/18-passion-fruit.jpg"
         ],
         [
           "فراولة",
           3500,
-          "https://images.unsplash.com/photo-1614707585284-9cb9fc018387?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/19-strawberry.jpg"
         ],
         [
           "أناناس",
           3500,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/20-pineapple.jpg"
         ],
         [
           "منكا",
           3500,
-          "https://images.unsplash.com/photo-1716441392930-b4daa288266a?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/21-mango.jpg"
         ],
         [
           "بلو بيري",
           3500,
-          "https://images.unsplash.com/photo-1764403713769-bca34ca96d1a?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/22-blueberry.jpg"
         ],
         [
           "وميكس",
           3500,
-          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/25-mix.jpg"
         ]
       ]
     },
@@ -145,12 +145,12 @@
         [
           "عصير برتقال",
           5000,
-          "https://images.unsplash.com/photo-1572590016064-3e6ae9c04947?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/23-orange-juice.jpg"
         ],
         [
           "كركديه",
           5000,
-          "https://images.unsplash.com/photo-1765118527329-6ed7fa0d10ac?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+          "images/24-hibiscus.jpg"
         ]
       ]
     }
