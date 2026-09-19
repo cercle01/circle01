@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700&display=swap');
+
+:root{
+  --bg:#f4ebdc;
+  --ink:#0b0705;
+  --bronze:#9e5521;
+  --bronze-light:#d48d43;
+  --line:rgba(11,7,5,.18);
+  --muted:#6e655c;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Cairo",system-ui,sans-serif;
+}
+a{color:inherit;text-decoration:none}
+.topbar{
+  height:76px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 5vw;border-bottom:1px solid var(--line);
+  position:sticky;top:0;background:rgba(244,235,220,.94);backdrop-filter:blur(10px);z-index:10
+}
+.brand{display:flex;align-items:center;gap:12px;font-weight:700;letter-spacing:.08em}
+.brand-mark{
+  width:36px;height:36px;border-radius:50%;display:grid;place-items:center;
+  background:var(--ink);color:var(--bronze-light);font-family:Arial,sans-serif;font-size:18px
+}
+.call-btn{border:1px solid var(--ink);padding:8px 18px;border-radius:999px;font-size:14px}
+main{max-width:1180px;margin:auto}
+.hero{padding:100px 5vw 75px;border-bottom:1px solid var(--line)}
+.eyebrow{font-size:12px;letter-spacing:.22em;color:var(--muted);margin:0 0 22px}
+h1{font-size:clamp(48px,8vw,104px);line-height:.98;letter-spacing:-.04em;margin:0 0 28px}
+h1 span{color:var(--bronze)}
+.intro{max-width:500px;color:var(--muted);font-size:18px}
+.primary{
+  display:inline-block;margin-top:22px;background:var(--ink);color:var(--bg);
+  padding:13px 24px;border-radius:999px;font-size:15px
+}
+.category-nav{
+  display:flex;gap:8px;overflow:auto;padding:18px 5vw;border-bottom:1px solid var(--line);
+  position:sticky;top:76px;background:rgba(244,235,220,.94);backdrop-filter:blur(10px);z-index:9
+}
+.category-nav a{
+  flex:0 0 auto;border:1px solid var(--line);border-radius:999px;padding:8px 15px;font-size:13px
+}
+.menu{padding:20px 5vw 80px}
+.menu-section{padding:40px 0;border-bottom:1px solid var(--line)}
+.section-title{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:12px}
+.section-title h2{font-size:32px;margin:0;letter-spacing:-.02em}
+.section-number{font-size:12px;color:var(--bronze);letter-spacing:.2em}
+.item{
+  display:grid;grid-template-columns:96px 1fr;gap:18px;align-items:center;
+  padding:18px 0;border-top:1px solid var(--line)
+}
+.item-image{
+  width:96px;height:78px;object-fit:cover;border-radius:14px;
+  display:block;background:#ddd
+}
+.item-info{min-width:0;display:flex;align-items:center;justify-content:space-between;gap:18px}
+.item-name{font-size:18px;font-weight:600}
+.item-price{font-size:18px;font-weight:600;white-space:nowrap}
+.item-price small{font-size:11px;color:var(--muted);font-weight:400;margin-right:4px}
+.contact{
+  background:var(--ink);color:var(--bg);padding:55px 5vw;
+  display:flex;justify-content:space-between;gap:30px;align-items:end
+}
+.contact .eyebrow{color:#bcae9c}
+.contact h2{font-size:42px;margin:0}
+.contact-links{display:grid;gap:12px;text-align:left;direction:ltr}
+.contact-links a{color:#f4ebdc}
+footer{padding:24px 5vw;background:var(--ink);color:#8f8478;border-top:1px solid #3a3028;font-size:12px}
+@media(max-width:700px){
+  .topbar{padding:0 18px}.hero{padding:70px 18px 55px}
+  .category-nav{top:76px;padding:12px 18px}.menu{padding:0 18px 60px}
+  .section-title h2{font-size:27px}.contact{padding:45px 18px;display:block}
+  .item{grid-template-columns:76px 1fr;gap:12px}
+  .item-image{width:76px;height:66px}
+  .item-info{display:block}
+  .item-price{margin-top:5px}
+  .contact-links{text-align:right;direction:rtl;margin-top:30px}
+  h1{font-size:58px}
+}

@@ -1,0 +1,158 @@
+{
+  "restaurant": "KALD CAFFE",
+  "instagram": "kal.cafe",
+  "tiktok": "kald.cafe.iq",
+  "phone": "+964 773 528 0426",
+  "sections": [
+    {
+      "name": "الإسبريسو",
+      "items": [
+        [
+          "إسبريسو",
+          4000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "برازيلي",
+          3000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "كولمبي",
+          3000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ]
+      ]
+    },
+    {
+      "name": "القهوة الحارة",
+      "items": [
+        [
+          "لاتيه هوت",
+          4000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "فلات وايت",
+          4000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "كورتادو",
+          4000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "لاتيه كلاسيك",
+          4000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "كابتشينو",
+          4000,
+          "https://images.unsplash.com/photo-1497636577773-f1231844b336?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "سبانش لاتيه",
+          5000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "موكا",
+          5000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "Angel",
+          5000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "هوت شوكليت",
+          4500,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "أمريكانو",
+          4000,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ]
+      ]
+    },
+    {
+      "name": "فلتر كوفي",
+      "items": [
+        [
+          "كولد برو",
+          5000,
+          "https://images.unsplash.com/photo-1765690835487-8da60d318d0f?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "V60",
+          7000,
+          "https://images.unsplash.com/photo-1771508706219-9781c79787e9?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ]
+      ]
+    },
+    {
+      "name": "المشروبات الباردة",
+      "items": [
+        [
+          "آيس تي",
+          3500,
+          "https://images.unsplash.com/photo-1758705206938-a196ac3ae3bb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "ليمون",
+          3500,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "باشن فروت",
+          3500,
+          "https://images.unsplash.com/photo-1754594537133-796eb54f206c?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "فراولة",
+          3500,
+          "https://images.unsplash.com/photo-1614707585284-9cb9fc018387?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "أناناس",
+          3500,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "منكا",
+          3500,
+          "https://images.unsplash.com/photo-1716441392930-b4daa288266a?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "بلو بيري",
+          3500,
+          "https://images.unsplash.com/photo-1764403713769-bca34ca96d1a?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "وميكس",
+          3500,
+          "https://images.unsplash.com/photo-1561522983-385a76fbb4cb?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ]
+      ]
+    },
+    {
+      "name": "العصائر",
+      "items": [
+        [
+          "عصير برتقال",
+          5000,
+          "https://images.unsplash.com/photo-1572590016064-3e6ae9c04947?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ],
+        [
+          "كركديه",
+          5000,
+          "https://images.unsplash.com/photo-1765118527329-6ed7fa0d10ac?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+        ]
+      ]
+    }
+  ]
+}
