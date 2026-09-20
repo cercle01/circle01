@@ -53,8 +53,14 @@ h1 span{color:var(--bronze)}
   padding:18px 0;border-top:1px solid var(--line)
 }
 .item-image{
-  width:96px;height:78px;object-fit:cover;border-radius:14px;
-  display:block;background:#ddd
+  width:120px;
+  height:120px;
+  object-fit:cover;
+  display:block;
+  border-radius:14px;
+  background:#ddd;
+  flex-shrink:0;
+}
 }
 .item-info{min-width:0;display:flex;align-items:center;justify-content:space-between;gap:18px}
 .item-name{font-size:18px;font-weight:600}
