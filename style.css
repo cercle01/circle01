@@ -73,8 +73,8 @@ footer{padding:24px 5vw;background:var(--ink);color:#8f8478;border-top:1px solid
   .category-nav{top:76px;padding:12px 18px}.menu{padding:0 18px 60px}
   .section-title h2{font-size:27px}.contact{padding:45px 18px;display:block}
   .item{grid-template-columns:84px 1fr;gap:14px}
-.item-image{width:84px;height:84px}
-  .item-info{display:block}
+.item-image{width:120px;height:120px;object-fit:cover;position:static}
+  .item-info{display:block;position:static}
   .item-price{margin-top:5px}
   .contact-links{text-align:right;direction:rtl;margin-top:30px}
   h1{font-size:58px}
