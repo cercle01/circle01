@@ -7,151 +7,51 @@
     {
       "name": "الإسبريسو",
       "items": [
-        [
-          "إسبريسو",
-          4000,
-          "images/01-espresso.jpg"
-        ],
-        [
-          "برازيلي",
-          3000,
-          "images/02-brazilian.jpg"
-        ],
-        [
-          "كولمبي",
-          3000,
-          "images/03-colombian.jpg"
-        ]
+        ["إسبريسو", 4000, "images/01-espresso.jpg"],
+        ["برازيلي", 3000, "images/02-brazilian.jpg"],
+        ["كولمبي", 3000, "images/03-colombian.jpg"]
       ]
     },
     {
       "name": "القهوة الحارة",
       "items": [
-        [
-          "لاتيه هوت",
-          4000,
-          "images/04-latte-hot.jpg"
-        ],
-        [
-          "فلات وايت",
-          4000,
-          "images/05-flat-white.jpg"
-        ],
-        [
-          "كورتادو",
-          4000,
-          "images/06-cortado.jpg"
-        ],
-        [
-          "لاتيه كلاسيك",
-          4000,
-          "images/07-latte-classic.jpg"
-        ],
-        [
-          "كابتشينو",
-          4000,
-          "images/08-cappuccino.jpg"
-        ],
-        [
-          "سبانش لاتيه",
-          5000,
-          "images/09-spanish-latte.jpg"
-        ],
-        [
-          "موكا",
-          5000,
-          "images/10-mocha.jpg"
-        ],
-        [
-          "Angel",
-          5000,
-          "images/11-angel.jpg"
-        ],
-        [
-          "هوت شوكليت",
-          4500,
-          "images/12-hot-chocolate.jpg"
-        ],
-        [
-          "أمريكانو",
-          4000,
-          "images/13-americano.jpg"
-        ]
+        ["لاتية هوت", 4000, "images/04-latte-hot.jpg"],
+        ["فلات وايت", 4000, "images/05-flat-white.jpg"],
+        ["كورتادو", 4000, "images/06-cortado.jpg"],
+        ["لاتية كلاسك", 4000, "images/07-latte-classic.jpg"],
+        ["كابتشينو", 4000, "images/08-cappuccino.jpg"],
+        ["سبانش لاتيه", 5000, "images/09-spanish-latte.jpg"],
+        ["موكا", 5000, "images/10-mocha.jpg"],
+        ["Angel", 5000, "images/11-angel.jpg"],
+        ["هوت شوكليت", 4500, "images/12-hot-chocolate.jpg"],
+        ["امريكانو", 4000, "images/13-americano.jpg"]
       ]
     },
     {
-      "name": "فلتر كوفي",
+      "name": "الفِلتر",
       "items": [
-        [
-          "كولد برو",
-          5000,
-          "images/14-cold-brew.jpg"
-        ],
-        [
-          "V60",
-          7000,
-          "images/15-v60.jpg"
-        ]
+        ["كولد برو", 5000, "images/14-cold-brew.jpg"],
+        ["V60", 7000, "images/15-v60.jpg"]
       ]
     },
     {
       "name": "المشروبات الباردة",
       "items": [
-        [
-          "آيس تي",
-          3500,
-          "images/16-iced-tea.jpg"
-        ],
-        [
-          "ليمون",
-          3500,
-          "images/17-lemon.jpg"
-        ],
-        [
-          "باشن فروت",
-          3500,
-          "images/18-passion-fruit.jpg"
-        ],
-        [
-          "فراولة",
-          3500,
-          "images/19-strawberry.jpg"
-        ],
-        [
-          "أناناس",
-          3500,
-          "images/20-pineapple.jpg"
-        ],
-        [
-          "منكا",
-          3500,
-          "images/21-mango.jpg"
-        ],
-        [
-          "بلو بيري",
-          3500,
-          "images/22-blueberry.jpg"
-        ],
-        [
-          "وميكس",
-          3500,
-          "images/25-mix.jpg"
-        ]
+        ["الايس تي", 3500, "images/16-iced-tea.jpg"],
+        ["ليمون", 3500, "images/17-lemon.jpg"],
+        ["باشن فروت", 3500, "images/18-passion-fruit.jpg"],
+        ["فراولة", 3500, "images/19-strawberry.jpg"],
+        ["اناناس", 3500, "images/20-pineapple.jpg"],
+        ["منكا", 3500, "images/21-mango.jpg"],
+        ["بلو بيري", 3500, "images/22-blueberry.jpg"],
+        ["وميكس", 3500, "images/25-mix.jpg"]
       ]
     },
     {
       "name": "العصائر",
       "items": [
-        [
-          "عصير برتقال",
-          5000,
-          "images/23-orange-juice.jpg"
-        ],
-        [
-          "كركديه",
-          5000,
-          "images/24-hibiscus.jpg"
-        ]
+        ["عصير برتقال", 5000, "images/23-orange-juice.jpg"],
+        ["كركديه", 5000, "images/24-hibiscus.jpg"]
       ]
     }
   ]
