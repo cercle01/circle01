@@ -79,3 +79,28 @@ footer{padding:24px 5vw;background:var(--ink);color:#8f8478;border-top:1px solid
   .contact-links{text-align:right;direction:rtl;margin-top:30px}
   h1{font-size:58px}
 }
+.item{
+  display:flex !important;
+  flex-direction:column !important;
+  align-items:flex-start !important;
+  gap:10px !important;
+}
+
+.item-image{
+  width:120px !important;
+  height:120px !important;
+  object-fit:cover !important;
+  position:static !important;
+}
+
+.item-info{
+  position:static !important;
+  display:block !important;
+  width:100% !important;
+}
+
+.item-name,
+.item-price{
+  position:static !important;
+  display:block !important;
+}
