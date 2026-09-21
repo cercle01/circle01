@@ -132,3 +132,8 @@ footer{padding:24px 5vw;background:var(--ink);color:#8f8478;border-top:1px solid
 .brand-mark{
   display:none !important;
 }
+.hero .brand-mark,
+.hero .brand-logo,
+.hero .logo-full{
+  display:none !important;
+}
