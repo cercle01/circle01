@@ -3,45 +3,190 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>KALD CAFFE — المنيو</title>
   <meta name="description" content="المنيو الإلكتروني لـ KALD CAFFE">
+
   <link rel="stylesheet" href="style.css">
+
+  <style>
+    .lang-switch{
+      display:flex;
+      gap:6px;
+      align-items:center;
+      border:1px solid var(--bronze-light);
+      border-radius:999px;
+      padding:4px;
+    }
+
+    .lang-switch button{
+      border:0;
+      background:transparent;
+      color:var(--bg);
+      padding:5px 10px;
+      border-radius:999px;
+      cursor:pointer;
+      font-family:inherit;
+      font-size:12px;
+    }
+
+    .lang-switch button.active{
+      background:var(--bronze-light);
+      color:var(--ink);
+    }
+  </style>
 </head>
+
 <body>
+
   <header class="topbar">
+
     <a class="brand" href="#top" aria-label="KALD CAFFE">
-      <img class="brand-logo" src="images/logo-full.png" alt="KALD CAFFE">
-</span>
-      <span>KALD CAFFE</span>
+      <img
+        class="brand-logo"
+        src="images/logo-full.png"
+        alt="KALD CAFFE"
+      >
     </a>
-    <a class="call-btn" href="tel:+9647735280426">اتصل بنا</a>
+
+    <div style="display:flex;align-items:center;gap:10px">
+
+      <div class="lang-switch">
+        <button id="arBtn" class="active" onclick="setLanguage('ar')">
+          عربي
+        </button>
+
+        <button id="enBtn" onclick="setLanguage('en')">
+          English
+        </button>
+      </div>
+
+      <a
+        class="call-btn"
+        href="tel:+9647735280426"
+        data-ar="اتصل بنا"
+        data-en="Call us"
+      >
+        اتصل بنا
+      </a>
+
+    </div>
+
   </header>
 
+
   <main id="top">
+
     <section class="hero">
-      <p class="eyebrow">KALD CAFFE · الزبير، شارع الرشيدية, IRAQ</p>
-      <h1>قهوة بهدوء.<br><span>مزاج أفضل.</span></h1>
-      <p class="intro">اكتشف قائمة KALD CAFFE واختر مشروبك.</p>
-      <a class="primary" href="#menu">استعرض المنيو ↓</a>
+
+      <p
+        class="eyebrow"
+        data-ar="KALD CAFFE · الزبير، شارع الرشيدية · العراق"
+        data-en="KALD CAFFE · Al-Zubair, Al-Rashidiya Street · Iraq"
+      >
+        KALD CAFFE · الزبير، شارع الرشيدية · العراق
+      </p>
+
+      <h1
+        data-ar="قهوة بهدوء.<br><span>مزاج أفضل.</span>"
+        data-en="Coffee calmly.<br><span>Better mood.</span>"
+      >
+        قهوة بهدوء.<br>
+        <span>مزاج أفضل.</span>
+      </h1>
+
+      <p
+        class="intro"
+        data-ar="اكتشف قائمة KALD CAFFE واختر مشروبك."
+        data-en="Explore the KALD CAFFE menu and choose your drink."
+      >
+        اكتشف قائمة KALD CAFFE واختر مشروبك.
+      </p>
+
+      <a
+        class="primary"
+        href="#menu"
+        data-ar="استعرض المنيو ↓"
+        data-en="View Menu ↓"
+      >
+        استعرض المنيو ↓
+      </a>
+
     </section>
 
-    <nav class="category-nav" id="categoryNav" aria-label="أقسام المنيو"></nav>
-    <section class="menu" id="menu"></section>
+
+    <nav
+      class="category-nav"
+      id="categoryNav"
+      aria-label="أقسام المنيو"
+    ></nav>
+
+
+    <section
+      class="menu"
+      id="menu"
+    ></section>
+
 
     <section class="contact">
+
       <div>
-        <p class="eyebrow">تواصل معنا</p>
-        <img class="logo-full" src="images/logo-full.png" alt="KALD CAFFE">
+
+        <p
+          class="eyebrow"
+          data-ar="تواصل معنا"
+          data-en="Contact us"
+        >
+          تواصل معنا
+        </p>
+
+        <img
+          class="logo-full"
+          src="images/logo-full.png"
+          alt="KALD CAFFE"
+        >
+
       </div>
+
+
       <div class="contact-links">
-        <a href="tel:+9647735280426">+964 773 528 0426</a>
-        <a href="https://instagram.com/kal.cafe" target="_blank" rel="noopener">Instagram · @kal.cafe</a>
-        <a href="https://www.tiktok.com/@kald.cafe.iq" target="_blank" rel="noopener">TikTok · @kald.cafe.iq</a>
+
+        <a href="tel:+9647735280426">
+          +964 773 528 0426
+        </a>
+
+        <a
+          href="https://instagram.com/kal.cafe"
+          target="_blank"
+          rel="noopener"
+        >
+          Instagram · @kal.cafe
+        </a>
+
+        <a
+          href="https://www.tiktok.com/@kald.cafe.iq"
+          target="_blank"
+          rel="noopener"
+        >
+          TikTok · @kald.cafe.iq
+        </a>
+
       </div>
+
     </section>
+
   </main>
 
-  <footer>© KALD CAFFE · الزبير، شارع الرشيد · يوميًا 7:00 ص – 1:00 ص</footer>
+
+  <footer
+    data-ar="© KALD CAFFE · الزبير، شارع الرشيدية · يوميًا 7:00 ص – 1:00 ص"
+    data-en="© KALD CAFFE · Al-Zubair, Al-Rashidiya Street · Daily 7:00 AM – 1:00 AM"
+  >
+    © KALD CAFFE · الزبير، شارع الرشيدية · يوميًا 7:00 ص – 1:00 ص
+  </footer>
+
+
   <script src="script.js"></script>
+
 </body>
 </html>
