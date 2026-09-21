@@ -126,3 +126,6 @@ footer{padding:24px 5vw;background:var(--ink);color:#8f8478;border-top:1px solid
     display:flex !important;
   }
 }
+.logo-full{
+  display:none !important;
+}
